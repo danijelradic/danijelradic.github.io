@@ -77,17 +77,23 @@ p{
 h2{
   padding: 15px;
   margin: 0;
-  color: #333;
   font-size: 20px;
   letter-spacing: -1px;
   position: relative;
 }
+.year h2 {
+  color: #2696b7;
+}
 
 .in h2{
   border-radius: 5px 5px 0 0;
-  background:#c1c1c1;
+  background:#18BC9C;
+  color: white;
 
 }
+
+
+
 .date{
   transition: all 0.2s ease-in-out;
   display: block;
